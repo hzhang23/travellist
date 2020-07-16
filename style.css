@@ -1,0 +1,19 @@
+.card {
+  width: 15rem;
+  height: fit-content;
+  margin: 0.5rem;
+}
+
+#destinations_container {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.buttons_container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.btn {
+  width: 45%;
+}
